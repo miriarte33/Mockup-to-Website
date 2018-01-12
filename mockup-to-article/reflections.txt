@@ -1,0 +1,17 @@
+You've learned a lot about web development so far. I want you to take a moment to write down your thoughts about web development here. Answer the following questions:
+  * What new skills have you learned?
+  * What has been easy?
+  * What has been difficult?
+  * How have you used the problem solving strategies from the first project to overcome challenges so far?
+
+---
+
+Your response goes here!
+
+1. I have learned new elements and how to search for them as I need them using the MDN web docs
+2. So far, the easy part has been memorizing the html template and the most commonly used elements.
+3. The hard part has been formatting the document to be exactly like mockups, as it could get a bit tedious
+to constantly look up which element does what, although eventually I will probably have memorized a few.
+4. Well, when I built my website for school I did not know that the MDN web docs existed, so having that resource there
+will definitely help me get the information I need to build websites exactly as I want them to look without
+having to search the internet extensively for the simplest answer.
